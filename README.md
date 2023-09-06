@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/BaBreton/42-Libft/assets/124448529/1f30464a-ce6f-4316-a658-0f7064ad36a6" alt="BaBreton" />
+</p>
 
 # 42-Libft
 
