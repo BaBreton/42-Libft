@@ -8,10 +8,10 @@ This Libft therefore contains the requested functions, as well as others for my 
 
 You can compile the libft with :
 ```bash
-	make
+make
 ```
 It will give you libft.a archive, which you can add to your project compilation with :
 
 ```bash
-	-L path_to_libft -lft
+-L path_to_libft -lft
 ````
