@@ -16,5 +16,5 @@ You can compile the libft with :
 It will give you libft.a archive, which you can add to your project compilation with :
 
 ```bash
-  -L path_to_libft -lft
+  -L/path_to_libft -lft
 ````
