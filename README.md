@@ -1,6 +1,10 @@
 <p align="center">
   <img src="https://github.com/BaBreton/42-Libft/assets/124448529/1f30464a-ce6f-4316-a658-0f7064ad36a6" alt="BaBreton" />
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Language-C-blue" alt="language" />
+  <img src="https://img.shields.io/badge/Mark-125/100-green" alt="language" />
+</p>
 
 # 42-Libft
 
